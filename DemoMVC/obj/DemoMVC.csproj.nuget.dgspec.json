@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {}
+    "C:\\Users\\TMT\\Desktop\\New folder\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {
+    "C:\\Users\\TMT\\Desktop\\New folder\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\TMT\\Desktop\\New folder\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
         "projectName": "DemoMVC",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\DemoMVC\\DemoMVC\\obj\\",
+        "projectPath": "C:\\Users\\TMT\\Desktop\\New folder\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+        "packagesPath": "C:\\Users\\TMT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TMT\\Desktop\\New folder\\DemoMVC\\DemoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,6 +64,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.14, )"
             }
           },
           "imports": [
@@ -84,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
